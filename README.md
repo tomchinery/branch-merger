@@ -2,7 +2,7 @@
   <img width="500" src="media/branch-merger-logo.svg" alt="Branch Merger">
 </div>
 
-# `branch-merger`
+# Branch Merger
 
 > Reliable branch merging for CI systems
 
