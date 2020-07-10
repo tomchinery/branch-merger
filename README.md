@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License">
   </a>
   <br>
+  <br>
   <p>
     Branch Merger is a CLI tool for CI systems that merges your branches through merge/pull requests.
   </p>
